@@ -2,6 +2,7 @@
 - 👀 I’m interested in New Technologies.
 - 🌱 I’m currently learning Salesforce and Fullstack.
 - 💞️ I’m looking to collaborate on apex and javascript.
+- I'm doing devOps now and fullstack development.
 - 📫 How to reach me ngobenibesnar@gmail.com
 
 <!---
